@@ -1,2 +1,3 @@
-Ezy Test
+EZY Test
+
 Esy Test site
