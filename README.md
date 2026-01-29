@@ -1,3 +1,3 @@
 EZY Test
 
-Esy Test site
+Ezy Test site
